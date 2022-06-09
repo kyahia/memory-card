@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.f577ba57.css",
+    "main.js": "/memory-card/static/js/main.d5d2a61c.js",
+    "static/media/Cyndaquil.webp": "/memory-card/static/media/Cyndaquil.0983d97955f48e27b62b.webp",
+    "static/media/Bulbasaur.webp": "/memory-card/static/media/Bulbasaur.5594de3d62bffd040531.webp",
+    "static/media/Togepi.webp": "/memory-card/static/media/Togepi.36a25a5f99d978455ccd.webp",
+    "static/media/Meowth.webp": "/memory-card/static/media/Meowth.e0f161640575f75f2042.webp",
+    "static/media/Squirtle.webp": "/memory-card/static/media/Squirtle.00b9d9283735e913250b.webp",
+    "static/media/Pikachu.webp": "/memory-card/static/media/Pikachu.ce278ef0368f3cd37ec1.webp",
+    "static/media/Charmander.webp": "/memory-card/static/media/Charmander.d0348a0a24c3b272db0d.webp",
+    "static/media/Jigglypuff.webp": "/memory-card/static/media/Jigglypuff.813b95413e5a798cc2b7.webp",
+    "static/media/Mew.webp": "/memory-card/static/media/Mew.04afde915e799315153a.webp",
+    "index.html": "/memory-card/index.html",
+    "main.f577ba57.css.map": "/memory-card/static/css/main.f577ba57.css.map",
+    "main.d5d2a61c.js.map": "/memory-card/static/js/main.d5d2a61c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f577ba57.css",
+    "static/js/main.d5d2a61c.js"
+  ]
+}

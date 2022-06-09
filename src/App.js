@@ -1,16 +1,6 @@
 import React, {useEffect, useState} from "react";
 import Cards from "./components/cards";
-
-const characters = [
-  {name: 'aaa', age: 10, color: 'red', id: 0},
-  {name: 'bbb', age: 20, color: 'blue', id: 1},
-  {name: 'ccc', age: 30, color: 'yellow', id: 2},
-  {name: 'eee', age: 40, color: 'orange', id: 3},
-  {name: 'ggg', age: 50, color: 'purple', id: 4},
-  {name: 'fff', age: 60, color: 'green', id: 5},
-  {name: 'mmm', age: 70, color: 'lightblue', id: 6},
-
-]
+import characters from "./chars-data.json";
 
 export default function App() {
   const [chosenChars, setChosenChars] = useState([]);
@@ -18,6 +8,7 @@ export default function App() {
   const [bestScore, setBestScore] = useState(0)
   const [updtChars, setUpdtChars] = useState(characters)
 
+  // Re-arrange charlist randomly
   useEffect(() => {
     let list = [...characters];
     let rslt = [];

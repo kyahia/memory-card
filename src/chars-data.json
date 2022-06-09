@@ -1,0 +1,58 @@
+[
+   { 
+      "name": "Bulbasaur", 
+      "path": "../resources/Bulbasaur.webp", 
+      "age": 10, 
+      "color": "red", 
+      "id": 0
+   },
+   {
+      "name": "Charmander", 
+      "path": "../resources/Charmander.webp", 
+      "age": 20, 
+      "color": "blue", 
+      "id": 1
+   },
+   {
+      "name": "Jigglypuff", 
+      "path": "../resources/Jigglypuff.webp", 
+      "age": 40, 
+      "color": "orange", 
+      "id": 3
+   },
+   {
+      "name": "Meowth", 
+      "path": "../resources/Meowth.webp", 
+      "age": 50, 
+      "color": "purple", 
+      "id": 4
+   },
+   {
+      "name": "Mew", 
+      "path": "../resources/Mew.webp", 
+      "age": 60, 
+      "color": "green", 
+      "id": 5
+   },
+   {
+      "name": "Pikachu", 
+      "path": "../resources/Pikachu.webp", 
+      "age": 70, 
+      "color": "lightblue",
+      "id": 7
+   },
+   {
+      "name": "Squirtle", 
+      "path": "../resources/Squirtle.webp", 
+      "age": 70, 
+      "color": "lightblue",
+      "id": 8
+   },
+   {
+      "name": "Togepi", 
+      "path": "../resources/Togepi.webp", 
+      "age": 70, 
+      "color": "lightblue",
+      "id": 9
+   }
+]
